@@ -8,3 +8,5 @@ T3 = (3,7,87,65,91,3,45,3,3,67,5)
 print(T3.count(3))
 slice = T3[2:7:2]
 print(slice)
+
+print(len(T2))
